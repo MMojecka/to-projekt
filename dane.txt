@@ -1,1 +1,24 @@
+1. Dane osób wykonujących projekt
+  Imię i nazwisko: Marta Mojecka
+  E-mail: mojecka124@gmail.com
+  Grupa: 1ID22A
+  
+2. Dane projektu
+  Temat: ???
+  Technologie: Windows, język C#, ???, ???
 
+3. Harmonogram
+  1. Przegląd gotowych rozwiązań dostępnych na rynku.
+  2. Zebranie literatury i źródeł.
+  3. Przygotowanie części teoretycznej projektu.
+  4. Sporządzenie projektu wstępnego aplikacji
+  5. Konfiguracja środowiska i ostateczny dobór narzędzi programistycznych.
+  6. Rozwijanie projektu.
+  7. Dalsze postępy w rozszerzaniu funkcjonalności projektu.
+  8. Testowanie wykonanej aplikacji.
+  
+4. Podział prac w zespole
+
+5. Dodatkowe informacje
+  Temat z projektu ,,Programowanie systemów rozproszonych": ???
+  Temat pracy inżynierskiej: Projekt i implementacja aplikacji rozpoznającej gesty alfabetu Morse'a.
